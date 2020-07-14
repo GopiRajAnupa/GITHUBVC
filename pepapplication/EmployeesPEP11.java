@@ -7,7 +7,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait; 
 import com.prolifics.ProlificsSeleniumAPI;
 import org.openqa.selenium.Keys; 
-gopiraj
 import org.testng.annotations.Parameters; 
 import org.testng.annotations.BeforeClass; 
 import org.testng.annotations.Test; 
@@ -76,3 +75,4 @@ oPSelFW.prolifics("verifyText","id=submitBtn&&id=submitBtn&&css=#submitBtn&&xpat
 
 
 }
+7/14/2020 8:46:55 AM
